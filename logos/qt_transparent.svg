@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="473.931mm"
+   height="473.931mm"
+   viewBox="0 0 1679.2831 1679.2831"
+   id="svg4199"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="qt_transparent.svg">
+  <defs
+     id="defs4201" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="301.37199"
+     inkscape:cy="908.71197"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4204">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,626.92087)">
+    <path
+       style="opacity:1;fill:#cccccc;fill-opacity:0.78431373;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 856.52734 5.2421875 A 831.42859 837.14288 0 0 0 690.99414 17.904297 A 831.42859 837.14288 0 0 0 12.570312 954.85547 A 831.42859 837.14288 0 0 0 914.70117 1675.5645 A 831.42859 837.14288 0 0 0 1666.668 797.36523 L 1648.4297 662.23242 A 831.42859 837.14288 0 0 0 856.52734 5.2421875 z M 623.63867 359.28906 C 626.62712 359.27396 629.66227 359.28543 632.74414 359.32422 C 662.33011 359.69658 696.32118 362.62312 736.80078 369.28516 C 818.26788 390.03164 867.93843 446.93364 895.83203 526.9668 C 932.71523 631.92172 940.06743 834.4684 899.49023 986.49023 C 879.84583 1034.5829 852.69963 1076.7147 813.58203 1109.3477 L 901.31445 1261.2402 L 793.46875 1319.2832 L 698.42188 1151.9141 C 637.51431 1157.2145 576.06139 1160.9272 505.58789 1138.3828 C 468.77969 1118.3732 406.99263 1108.3889 362.0918 970.04297 C 353.076 923.9819 317.24128 833.36124 362.0918 544.38477 C 371.26507 523.52441 392.94923 422.91025 511.98633 373.14453 C 544.23314 365.65387 578.81195 359.51555 623.63867 359.28906 z M 1074.9609 402.17383 L 1187.373 403.14062 L 1187.373 567.60156 L 1333.6016 568.56836 L 1334.5156 667.24414 L 1190.1152 668.21289 L 1191.9434 973.91602 C 1195.9942 1015.0372 1206.7844 1035.0141 1244.9512 1034.8633 L 1336.3438 1030.9941 L 1340 1129.6699 C 1295.0088 1139.299 1246.9827 1143.5718 1194.6855 1140.3105 C 1090.9987 1127.015 1085.3464 1054.9008 1077.7012 984.55664 L 1075.875 666.27734 L 996.36328 667.24414 L 996.36328 566.63477 L 1074.0469 567.60156 L 1074.9609 402.17383 z M 629.0293 465.47656 C 608.37839 465.61363 588.42925 467.96742 569.56055 473.76758 C 493.87835 507.71922 495.09724 548.17929 476.33594 586.95117 C 457.56454 691.92608 458.63473 798.65246 469.01953 906.19922 C 489.28033 993.60877 528.60848 1034.44 580.52148 1044.5312 C 615.25068 1050.9809 649.97786 1050.9809 684.70703 1044.5312 C 759.32903 1031.1707 785.42855 970.39776 797.12695 895.55469 C 807.33765 790.92925 805.94022 700.96091 794.38672 601.45508 C 774.35912 502.62388 727.1405 487.53799 681.0625 468.92383 C 666.3641 467.11147 651.82792 465.85252 637.60352 465.54492 C 636.12177 465.51291 634.64302 465.4894 633.16797 465.47852 C 631.78511 465.46832 630.40602 465.46742 629.0293 465.47656 z "
+       transform="translate(0,-626.92087)"
+       id="path4332" />
+  </g>
+</svg>

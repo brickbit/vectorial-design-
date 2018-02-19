@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="473.931mm"
+   height="473.931mm"
+   viewBox="0 0 1679.2831 1679.2831"
+   id="svg4199"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="arduino_transparent.svg">
+  <defs
+     id="defs4201" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="301.37199"
+     inkscape:cy="908.71197"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4204">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,626.92087)">
+    <path
+       style="opacity:1;fill:#cccccc;fill-opacity:0.78431373;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 859.45312 2.3847656 A 834.28571 835.71423 0 0 0 693.35156 15.025391 A 834.28571 835.71423 0 0 0 12.597656 950.37695 A 834.28571 835.71423 0 0 0 917.82812 1669.8574 A 834.28571 835.71423 0 0 0 1672.377 793.1543 L 1654.0781 658.25391 A 834.28571 835.71423 0 0 0 859.45312 2.3847656 z M 1175.4453 549.28516 C 1346.0713 548.66288 1486.1459 698.19239 1479.791 867.53516 C 1471.4932 1088.6626 1192.9884 1267.1739 972.94922 1082.2969 L 839.80859 952.29297 L 705.14258 1085.8242 C 552.7023 1207.3052 380.40823 1161.8642 281.76367 1060.0508 C 226.9623 1003.489 198.86463 931.00653 200.03516 856.54883 C 201.29933 776.13483 232.58208 693.25979 297.30273 633.36133 C 395.88062 542.12825 557.58005 509.74398 703.10938 621.24023 L 838.79297 756.2793 L 975.99805 620.73438 C 1042.6888 571.01986 1111.2312 549.51935 1175.4453 549.28516 z M 504.39258 686.56836 C 458.93749 686.63472 417.90647 704.22361 398.14258 724.28516 C 284.44677 831.3498 360.0404 948.58312 390.01367 976.22852 C 488.16788 1054.935 593.90746 1004.4006 622.75781 969.17578 L 739.63672 853.78516 L 610.56055 725.29102 C 577.77797 697.06367 539.74654 686.51677 504.39258 686.56836 z M 1172.6191 686.81836 C 1137.2652 686.76675 1099.2338 697.31562 1066.4512 725.54297 L 937.37695 854.03516 L 1054.2578 969.42578 C 1083.1082 1004.6506 1188.8478 1055.187 1287.002 976.48047 C 1316.9753 948.83507 1392.5649 831.5998 1278.8691 724.53516 C 1259.1052 704.47361 1218.0742 686.8848 1172.6191 686.81836 z M 1175.4375 750.08594 C 1191.129 750.20607 1206.6579 761.31597 1206.4551 780.8457 L 1206.709 826.57422 L 1251.8105 827.20312 C 1281.3968 827.51479 1294.2957 884.09126 1251.3027 887.66992 L 1206.9629 887.66992 L 1207.4727 937.55469 C 1206.965 967.98168 1154.1187 981.2966 1144.332 937.42969 L 1144.0781 888.80273 L 1086.7812 888.80273 C 1044.0947 877.47238 1057.2088 829.93411 1086.7812 826.82617 L 1143.6953 826.82617 L 1143.6953 780.97266 C 1145.8127 759.55918 1160.697 749.97309 1175.4375 750.08594 z M 439.36719 823.29883 L 603 823.29883 C 636.03232 827.23197 640.12263 883.44558 602.74609 885.02539 L 438.35156 885.27734 C 413.36294 885.5996 393.41933 833.75083 439.36719 823.29883 z "
+       transform="translate(0,-626.92087)"
+       id="path4138" />
+  </g>
+</svg>
